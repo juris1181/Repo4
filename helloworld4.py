@@ -1,5 +1,5 @@
 
-
+# veiktas izmainas 1-2-3
 # lai lietotu nepieciesams: 
 # python -m pip install --upgrade pip
 # pip install paramiko --user

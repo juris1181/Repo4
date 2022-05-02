@@ -6,6 +6,7 @@ using namespace std;
 int main ()
 
 //hello world izvade
+//hello world izvade
 {
     string x, y;
 cout<<"Ieraksti savu Vardu: \n";
